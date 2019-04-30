@@ -102,4 +102,3 @@ describe "Bundler" do
     end
   end
 end
-
